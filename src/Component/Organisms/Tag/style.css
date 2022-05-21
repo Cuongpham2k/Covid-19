@@ -1,0 +1,25 @@
+.tag {
+  margin: 20px 20px;
+  width: 240px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 30px 0;
+}
+.over {
+  margin: 0 auto;
+}
+h1 {
+  text-align: center;
+  margin: 20px 0;
+}
+.title {
+  color: #fff;
+  font-weight: 700;
+}
+.number {
+  color: #fff;
+  font-weight: 700;
+}
